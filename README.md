@@ -1,13 +1,13 @@
 # Project structure template in C
 
 ## Usage
-Using Cmake for compilation
+Using [CMake](https://cmake.org/) for compilation
 
-Using CTest for unit testing
+Using [CTest](https://cmake.org/cmake/help/latest/manual/ctest.1.html) for unit testing
 
-Using python for functional testing
+Using Python for functional testing
 
-Using pre-commit and clang-format for style
+Using [pre-commit](https://pre-commit.com/) and [clang-format](https://clang.llvm.org/docs/ClangFormat.html) for style
 
 ## Project's tree
 The project's tree must look like this:
