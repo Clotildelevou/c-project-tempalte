@@ -1,12 +1,12 @@
 #Project structure template in C
 
-##Usage
+#Usage
 Using Cmake for compilation
 Using CTest for unit testing
 Using python for functional testing
 Using pre-commit and clang-format for style
 
-##Project's tree
+#Project's tree
 The project's tree must look like this:
 .
 ├── CMakeLists.txt
