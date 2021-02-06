@@ -2,8 +2,11 @@
 
 ## Usage
 Using Cmake for compilation
+
 Using CTest for unit testing
+
 Using python for functional testing
+
 Using pre-commit and clang-format for style
 
 ## Project's tree
