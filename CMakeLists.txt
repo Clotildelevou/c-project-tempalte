@@ -29,7 +29,7 @@ set(LIBS
 
 # lib1
 file(GLOB_RECURSE LIB1_SOURCES RELATIVE ${CMAKE_SOURCE_DIR} "src/lib1/*.c")
-add_library(lib1 STATIC ${UTILS_SOURCES})
+add_library(lib1 STATIC ${LIB1_SOURCES})
 target_compile_options(lib1 PRIVATE ${CFLAGS})
 
 # lib2
